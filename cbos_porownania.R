@@ -20,3 +20,11 @@ cbos <- cbos_raw %>% transmute(
 )
 dim(cbos)
 head(cbos)
+wieś->cbos
+
+
+
+#Wybierz respondentów z kategorii `miejscowosc` równych `"wieś"` i `"miasto 500 000 i więcej"
+#`. Dla każdej z tych dwóch grup policz **procent** odpowiedzi na pytanie `kierunek` (procent w obrębie grupy,
+ # nie w całej tabeli). Czy udział odpowiedzi „W złym” był taki sam?
+ # Sprawdź liczbę respondentów w obu grupach. Samo porównanie procentów bez liczebności może być mylące.
