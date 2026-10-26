@@ -20,7 +20,7 @@ cbos <- cbos_raw %>% transmute(
 )
 dim(cbos)
 head(cbos)
-wieś->cbos
+
 
 
 
