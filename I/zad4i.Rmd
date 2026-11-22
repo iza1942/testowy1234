@@ -1,0 +1,5 @@
+---
+title: "zad4i"
+output: html_document
+---
+
