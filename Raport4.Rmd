@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: "Podstawowe operacje w R - część 3"
+=======
+title: "Podstawowe operacje w R - część 3."
+>>>>>>> 886897a4c5785ae9493a4b0e30dfa8951278728a
 subtitle: 'Eksploracja danych'
 author: "Twoje imię i nazwisko"
 date: "`r Sys.Date()`"
