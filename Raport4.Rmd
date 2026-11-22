@@ -1,5 +1,5 @@
 ---
-title: "Podstawowe operacje w R - część 3."
+title: "Podstawowe operacje w R - część 3"
 subtitle: 'Eksploracja danych'
 author: "Twoje imię i nazwisko"
 date: "`r Sys.Date()`"
